@@ -1,0 +1,24 @@
+.app {
+	height: 100vh;
+	background-color: #646464;
+	color: #ffffff;
+	text-align: center;
+}
+h1 {
+	width: 100vw;
+	padding: 40px;
+}
+h4 {
+	text-align: left;
+}
+button {
+	width: 30vw;
+	margin-left: calc(50% - 15vw);
+}
+.close {
+	width: 2vw;
+	-webkit-appearance: none;
+}
+.modal-body {
+	text-align: center;
+}

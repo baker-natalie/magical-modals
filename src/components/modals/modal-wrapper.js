@@ -18,7 +18,7 @@ const ModalWrapper = React.createClass({
 
     return (
       <div>
-        <p>Click to get the full Modal experience!</p>
+        <h1>Here come the Modals</h1>
 
         <Button
           bsStyle="primary"
