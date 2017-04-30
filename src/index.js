@@ -6,4 +6,4 @@ import $ from 'jquery';
 
 ReactDOM.render(
     <App />
-  , document.querySelector('.app'));
+  , document.querySelector('.container'));

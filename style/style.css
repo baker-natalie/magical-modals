@@ -1,8 +1,11 @@
-.app {
+/*.container {
 	height: 100vh;
 	background-color: #646464;
 	color: #ffffff;
 	text-align: center;
+	margin: 0 !important;
+	padding: 0 !important;
+	width: 100vw !important;
 }
 h1 {
 	width: 100vw;

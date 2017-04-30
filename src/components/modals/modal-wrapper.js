@@ -18,7 +18,6 @@ const ModalWrapper = React.createClass({
 
     return (
       <div>
-        <h1>Here come the Modals</h1>
 
         <Button
           bsStyle="primary"

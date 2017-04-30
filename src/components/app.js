@@ -13,6 +13,7 @@ export default class App extends Component {
   render() {
     return (
       <div>
+      	<h1>Here Come the Modals</h1>
       	<ModalWrapper buttonText={"Click me I'm a button"} title={"Modal"} body={"Look at me I'm a modal"}/>
       </div>
     );
